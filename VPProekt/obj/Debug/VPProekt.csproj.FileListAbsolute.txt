@@ -1,0 +1,10 @@
+D:\Microsoft Visual Studio\Projects\VPProekt\bin\Debug\VPProekt.exe.config
+D:\Microsoft Visual Studio\Projects\VPProekt\bin\Debug\VPProekt.exe
+D:\Microsoft Visual Studio\Projects\VPProekt\bin\Debug\VPProekt.pdb
+D:\Microsoft Visual Studio\Projects\VPProekt\obj\Debug\VPProekt.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\Projects\VPProekt\obj\Debug\VPProekt.Form1.resources
+D:\Microsoft Visual Studio\Projects\VPProekt\obj\Debug\VPProekt.Properties.Resources.resources
+D:\Microsoft Visual Studio\Projects\VPProekt\obj\Debug\VPProekt.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\Projects\VPProekt\obj\Debug\VPProekt.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projects\VPProekt\obj\Debug\VPProekt.exe
+D:\Microsoft Visual Studio\Projects\VPProekt\obj\Debug\VPProekt.pdb

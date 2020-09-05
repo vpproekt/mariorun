@@ -1,0 +1,10 @@
+D:\Microsoft Visual Studio\Projects\VPProekt\bin\Release\VPProekt.exe.config
+D:\Microsoft Visual Studio\Projects\VPProekt\bin\Release\VPProekt.exe
+D:\Microsoft Visual Studio\Projects\VPProekt\bin\Release\VPProekt.pdb
+D:\Microsoft Visual Studio\Projects\VPProekt\obj\Release\VPProekt.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\Projects\VPProekt\obj\Release\VPProekt.Form1.resources
+D:\Microsoft Visual Studio\Projects\VPProekt\obj\Release\VPProekt.Properties.Resources.resources
+D:\Microsoft Visual Studio\Projects\VPProekt\obj\Release\VPProekt.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\Projects\VPProekt\obj\Release\VPProekt.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projects\VPProekt\obj\Release\VPProekt.exe
+D:\Microsoft Visual Studio\Projects\VPProekt\obj\Release\VPProekt.pdb
